@@ -1,28 +1,30 @@
 #Tatjana Grencione
 
-#1)Andersone Linda Elva
+#1 Burke Elza
 
-#2)Apsîtis Edvards
+#2 Dundurs MÄrcis
 
-#3)Èeròevièa Letîcija Lîna
+#3 DÅ«rÄ“ja Annemarija
 
-#4)Drozdova Miğelle
+#4 DzÄ“rve ArtÅ«rs
 
-#5)Karlinskis Renârs
+#5 Greilihs DÄ«vs Rihards
 
-#6)Lukjanskis Miks Patriks
+#6 Lange RÅ«dolfs Toms
 
-#7)Lukğs Lauris
+#7 MeÅ¡konis Aleksandrs Nils
 
-#8)Mâlkalns Kristaps
+#8 RobeÅ¾nieks Eduards
 
-#9)Ruòìis Kristaps
+#9 Saukums Krists
 
-#10)Segliòğ Jçkabs
+#10 SprÅ«Ä£is Gabriels
 
-#11)Serşante Agate
+#11 StankeviÄs Viesturs
 
-#12)Voiteğonoks Aleksandrs
+#12 Strazds EmÄ«ls
 
-#13)Zvaigzne Gustavs Henrijs
+#13 Å kutÄne Ieva
+
+#14 ZÄ«le Kristaps 
 
