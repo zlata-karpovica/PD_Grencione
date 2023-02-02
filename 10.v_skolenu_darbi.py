@@ -1,30 +1,29 @@
 #Tatjana Grencione
 
-#1 Burke Elza
+#1 Azarēviča Arina
 
-#2 Dundurs Mārcis
+#2 Bāra Antuanete
 
-#3 Dūrēja Annemarija
+#3 Boja Ernests
 
-#4 Dzērve Artūrs
+#4 Donovs Emīls Niks
 
-#5 Greilihs Dīvs Rihards
+#5 Feldmane Laura
 
-#6 Lange Rūdolfs Toms
+#6 Karpoviča Zlata
 
-#7 Meškonis Aleksandrs Nils
+#7 Kļimova Anna
 
-#8 Robežnieks Eduards
+#8 Kokoreviča Diāna
 
-#9 Saukums Krists
+#9 Krastiņš Guntis
 
-#10 Sprūģis Gabriels
+#10 Ločmele Līva
 
-#11 Stankevičs Viesturs
+#11 Milliņš Māris
 
-#12 Strazds Emīls
+#12 Plonis Gustavs
 
-#13 Škutāne Ieva
+#13 Strazdiņa Paula Marta
 
-#14 Zīle Kristaps 
-
+#14 Vanags Renārs
