@@ -11,7 +11,7 @@
 #5 Feldmane Laura
 
 #6 Karpoviča Zlata
-
+print(cos(radians(60)+fmod(15,2)))
 #7 Kļimova Anna
 
 #8 Kokoreviča Diāna
